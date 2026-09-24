@@ -73,33 +73,30 @@
 <div align="center" width="50%">
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedShahulAhmed&theme=radical" alt="Profile Details" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PenchalaRaoBoddu&theme=radical" alt="Profile Details" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedShahulAhmed&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SyedShahulAhmed&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PenchalaRaoBoddu&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PenchalaRaoBoddu&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- GitHub Streak (Added) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SyedShahulAhmed&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PenchalaRaoBoddu&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### ❤️ Let's Get Connected
 <p align="center">
-  <a href="https://shahulahmed.vercel.app" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="35px"/>
-  </a>
-  <a href="https://x.com/ShahulAhmed17?t=Kk665GXRLquOrucnSvkTew&s=09" target="_blank">
+  <a href="https://x.com/Boddupenchal?t=Kk665GXRLquOrucnSvkTew&s=09" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="35px"/>
   </a>
-  <a href="https://www.linkedin.com/in/shahul-ahmed/" target="_blank">
+  <a href="https://www.linkedin.com/in/penchalarao-boddu/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35px"/>
   </a>
-  <a href="https://www.instagram.com/vincenzo_773/" target="_blank">
+  <a href="https://www.instagram.com/_chinnu_1412/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="35px"/>
   </a>
 </p>
