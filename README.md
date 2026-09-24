@@ -1,6 +1,6 @@
 <!-- Animated Welcome Banner -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=30&duration=3000&pause=500&color=f72585&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Java+DSA+Solver+%7C+Problem+Solver;Full+Stack+Developer+%7C+Next.js+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;React+Enthusiast+;Competitive+Programming+%7C+Algorithm+Lover;Open+for+Projects+%26+Collaborations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=30&duration=3000&pause=500&color=f72585&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Python+DSA+Solver+%7C+Problem+Solver;Python+Full+Stack+Developer+%7C+Django+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+PostgreSQL;React+Enthusiast;Competitive+Programming+%7C+Algorithm+Lover;Open+for+Projects+%26+Collaborations" alt="Typing SVG" />
 </p>
 
 <!-- Title Section -->
@@ -105,12 +105,6 @@
 
 ### ✦ Thanks for Stopping By ✦
 <p align="center">
-  <i>Building. Learning. Creating.</i><br><br>
-✦ Thank you for visiting my corner of GitHub ✦<br>
-If something here helped, inspired, or taught you something new,<br>
-a ⭐ on a repository is always appreciated.
-<br><br>
 <b>「 Keep Learning • Keep Building • Keep Growing 」</b>
 <br><br>
-🚀 Happy Coding & Have an Amazing Day ✨
 </p>
