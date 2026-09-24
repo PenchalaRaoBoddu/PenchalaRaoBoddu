@@ -17,7 +17,7 @@
 
 ### 👨🏻‍💻 About Me
 <p align="center">
-  <img src="hero.gif" align="right" width="250" style="border-radius: 15px; margin: 10px;"/>
+  <img src="assests/hero.gif" align="right" width="350" style="border-radius: 15px; margin: 10px;"/>
 </p>
 
 - 🙋‍♂️ Find out more about me on [**LinkedIn**](www.linkedin.com/in/penchalarao-boddu)..
