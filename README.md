@@ -10,14 +10,14 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="assests/banner1.gif" alt="Profile Banner" width="80%" style="border-radius: 15px;"/>
+  <img src="assests/banner1.gif" alt="Profile Banner" width="70%" style="border-radius: 15px;"/>
 </p>
 
 ---
 
 ### 👨🏻‍💻 About Me
 <p align="center">
-  <img src="assests/hero.gif" align="right" width="350" style="border-radius: 15px; margin: 10px;"/>
+  <img src="assests/side1.png" align="right" width="250" style="border-radius: 15px; margin: 10px;"/>
 </p>
 
 - 🙋‍♂️ Find out more about me on [**LinkedIn**](www.linkedin.com/in/penchalarao-boddu)..
