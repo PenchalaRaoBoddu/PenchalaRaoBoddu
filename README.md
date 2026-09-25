@@ -10,7 +10,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="Animate.gif" alt="Profile Banner" width="80%" style="border-radius: 15px;"/>
+  <img src="assests/banner1.gif" alt="Profile Banner" width="80%" style="border-radius: 15px;"/>
 </p>
 
 ---
